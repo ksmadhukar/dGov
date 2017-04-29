@@ -43,3 +43,6 @@ dependencies:
   - inline_entity_form
   - google_analytics
 
+themes:
+  - bartik
+  - seven
