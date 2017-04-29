@@ -34,3 +34,12 @@ dependencies:
   - views_ui
 # contrib
   - admin_toolbar_tools
+  - token
+  - pathauto
+  - metatag
+  - paragraphs
+  - scheduler
+  - linkit
+  - inline_entity_form
+  - google_analytics
+
