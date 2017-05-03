@@ -32,6 +32,9 @@ dependencies:
   - responsive_image
   - views
   - views_ui
+  - locale
+  - content_translation
+  - config_translation
 # contrib
   - admin_toolbar_tools
   - token
@@ -42,6 +45,7 @@ dependencies:
   - linkit
   - inline_entity_form
   - google_analytics
+  - text_resize
 
 themes:
   - bartik
