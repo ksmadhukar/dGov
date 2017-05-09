@@ -20,5 +20,6 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
-  - 'dgov/global-styling'
-  - 'dgov/bootstrap-scripts'
+  - 'dgov_theme/global-styles'
+  - 'dgov_theme/bootstrap-scripts'
+  - 'dgov_theme/custom-scripts'
