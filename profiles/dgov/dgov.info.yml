@@ -1,7 +1,7 @@
 name: dGov
 type: profile
 description: 'The Drupal 8 based CMS for government agencies & ministries.'
-# core: 8.x
+core: 8.x
 distribution:
   name: dGov
 
@@ -32,5 +32,8 @@ dependencies:
   - responsive_image
   - views
   - views_ui
+  - quickedit
 # contrib
   - admin_toolbar_tools
+
+#Themes
