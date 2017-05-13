@@ -32,8 +32,20 @@ dependencies:
   - responsive_image
   - views
   - views_ui
-  - quickedit
+  - locale
+  - content_translation
 # contrib
   - admin_toolbar_tools
+  - token
+  - pathauto
+  - metatag
+  - paragraphs
+  - scheduler
+  - linkit
+  - inline_entity_form
+  - google_analytics
+  - text_resize
 
-#Themes
+themes:
+  - bartik
+  - seven
