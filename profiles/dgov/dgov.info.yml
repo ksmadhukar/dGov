@@ -8,6 +8,7 @@ distribution:
 # Required modules
 dependencies:
   # core
+  - block_content
   - block
   - breakpoint
   - ckeditor
@@ -34,6 +35,7 @@ dependencies:
   - views_ui
   - locale
   - content_translation
+  - metatag
 # contrib
   - admin_toolbar_tools
   - token
@@ -45,7 +47,9 @@ dependencies:
   - inline_entity_form
   - google_analytics
   - text_resize
-
+  - default_content
+  - better_normalizers
+  - file_entity
 themes:
   - bartik
   - seven
